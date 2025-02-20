@@ -1,0 +1,11 @@
+black==25.1.0
+click==8.1.8
+iniconfig==2.0.0
+mypy-extensions==1.0.0
+packaging==24.2
+pathspec==0.12.1
+platformdirs==4.3.6
+pluggy==1.5.0
+git+https://github.com/soulwax/pyannotate.git@5d07b8ef8eba2f289661eab578b2aabb565a36db#egg=pyannotate
+pytest==8.3.4
+git+https://github.com/soulwax/pytreeprint.git@3cfeebde44dad2a409faf4bf14f41ac8fd456d4e#egg=pytree_print_soulwax
